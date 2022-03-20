@@ -24,8 +24,8 @@
 
 <h3>Awards 🏆</h3>
 <ul>
-  - First Place at Georgia State Leadership Conference 
-  - National Leadership Conference Qualified
+  <li>First Place at Georgia State Leadership Conference</li>
+  <li>National Leadership Conference Qualified</li>
 </ul>
 <h3>Project Documents:</h3>
 <ul>
